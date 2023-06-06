@@ -1,6 +1,8 @@
 # Understanding the Characteristics of a Successful TV Show
 
-Launch lab in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aamodini/nm-career-day/blob/main/tv_ratings.ipynb)
+Data Exploration and Modeling Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aamodini/nm-career-day/blob/main/tv_ratings.ipynb)
+
+Data Visualization and Communication: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aamodini/nm-career-day/blob/main/tv-viz.ipynb)
 
 ## Data dictionary
 
