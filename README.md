@@ -1,9 +1,7 @@
-# Predicting Movie Ratings
+# Understanding the Characteristics of a Successful TV Show
 
-1. Launch lab in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aamodini/nm-career-day/blob/main/movie_ratings.ipynb)
-2. Make sure to run the `pip install` at the top of the notebook
+Launch lab in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aamodini/nm-career-day/blob/main/tv_ratings.ipynb)
 
-# Revised Plan
 ## Data dictionary
 
 - `CharacterDevelopment`: The average number of significant character arcs per season
@@ -15,7 +13,3 @@
 - `HiatusDuration`: The average time in between seasons
 - `RottenTomatoesRating`: The Rotten Tomatoes rating of the TV show.
 - `IMDbRating`: The IMDb rating of the TV show.
-
-# Predicting Galton Family Heights
-
-1. Launch lab in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aamodini/nm-career-day/blob/main/galton_family.ipynb)
